@@ -17,4 +17,5 @@ InAppSettingsKit (IASK) is an open source solution to easily add in-app settings
 	s.source_files			= "InAppSettingsKit/**/*.{h,m}"
 	s.frameworks			= "MessageUI", "UIKit"
 	s.ios.deployment_target = '8.0'
+	s.tvos.deployment_target = '11.0'
 end
